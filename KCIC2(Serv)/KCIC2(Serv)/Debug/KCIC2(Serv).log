@@ -1,0 +1,6 @@
+﻿  KCIC2(Serv).cpp
+C:\Users\User\source\repos\KCIC2(Serv)\KCIC2(Serv)\KCIC2(Serv).cpp(55,14): warning C4244:  инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\User\source\repos\KCIC2(Serv)\KCIC2(Serv)\KCIC2(Serv).cpp(64,9): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\KCIC2(Serv)\KCIC2(Serv)\KCIC2(Serv).cpp(87,21): warning C4244:  =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\User\source\repos\KCIC2(Serv)\KCIC2(Serv)\KCIC2(Serv).cpp(95,15): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+  KCIC2(Serv).vcxproj -> C:\Users\User\source\repos\KCIC2(Serv)\Debug\KCIC2(Serv).exe
